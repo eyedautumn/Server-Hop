@@ -4,8 +4,6 @@ Before running Roblox Hopper, you need to add your Roblox security cookie and 
 1️⃣ Environment File
 Create a .env file (or rename .env.template → .env) in the project root, then paste your cookie:
 
-Bash
-
 # .env
 ROBLOX_COOKIE=_|WARNING:-DO-NOT-SHARE-THIS.--your--long--roblosecurity--value
 ⚠️ Do not share or upload this file.
@@ -28,9 +26,9 @@ Chrome_Bin	Path or name of your Chrome binary (e.g. google‑chrome or chr
 A simple local control panel lets you manage and launch hoppers directly from your browser.
 
 ▶️ Start the Website
-Bash
 
 npm run website
+
 Then open your browser to:
 
 👉 http://localhost:3000
