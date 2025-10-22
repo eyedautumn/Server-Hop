@@ -1,0 +1,1 @@
+ROBLOX_COOKIE=your_roblox_cookie_here
