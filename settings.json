@@ -1,0 +1,10 @@
+{
+  "placeId": 109983668079237,
+  "maxPlayers": 10,
+  "limit": 200,
+  "sortOrder": "Asc",
+  "Avoid_Friends": true,
+  "AlreadyJoinedServerAvoiding": 3,
+  "Hopper_Login": "0",
+  "Chrome_Bin": "google-chrome"
+}
