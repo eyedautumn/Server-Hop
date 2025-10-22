@@ -136,4 +136,11 @@ dist
 
 # Vite logs files
 vite.config.js.timestamp-*
+
+# Local Files
+node_modules/
+.env
+.roblox-hopper-chrome/
+.roblox-hopper/
+joined-history.json
 vite.config.ts.timestamp-*
