@@ -6,5 +6,6 @@
   "Avoid_Friends": true,
   "AlreadyJoinedServerAvoiding": 3,
   "Hopper_Login": "0",
-  "Chrome_Bin": "google-chrome"
+  "Chrome_Bin": "google-chrome",
+  "Port" : 3000
 }
